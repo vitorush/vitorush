@@ -1,4 +1,4 @@
-# Vitor Ush
+# Vitorush
 
 Estudante de programação focado em desenvolvimento e tecnologia.
 
